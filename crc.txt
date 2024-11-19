@@ -7,8 +7,8 @@ Dark Chronicle™ (EUR): 24a3fa0d9253fdc9dd73f2c5b55acca9
 Dark Chronicle™ v2 (EUR): 1e52ff2585a062e8e4e525488a6ff164
 Destroy ALL HUMANS (USA): 8b5385b44106845f5e04f1815008102d
 Destroy ALL HUMANS V2 (USA): 32c6142f0d4835766dce9ffa0a5c1f39
-eternal ring v1: ec20f80970cf9735edcd898043e4a424
-eternal ring v2: 6ffb284c2ebbdcd56f2e1dcbe8eb9353
+Eternal ring v1: ec20f80970cf9735edcd898043e4a424
+Eternal ring v2: 6ffb284c2ebbdcd56f2e1dcbe8eb9353
 EVERYTENNIS: 3f4ec5ae47a4c4a54b51456ac61246b6
 FAHRENHEIT: 5a3a7cca7394de281ccd57fa72ee7f4d
 FATAL FURY  22 cycle: 648dcde712b9808062418d122e782ab1
@@ -18,12 +18,13 @@ FATAL FURY EE Cycle scalar 7.0: 9df9a0b6fd84d95d020a839bbd241104
 Forbidden Siren v1: a74b4061f520400f5e9b39015d586dfa
 Forbidden Siren v2: be9defbb9d9e2a9febc4ac9793f2ada4
 GTA III: 6ddb3aecde94294bdfa8c9baa5c57949
+GTA SA (USA): f977cce28ec42a466ce04e60b3c68df7
 Harvest Moon Save the Homeland v1: b2544e20e3b440e55da8b45adf5ebbf7
 Harvest moon wonderful life: 1cc6d4bedbe3b4a85f2fdc5bc40dbd6a
 JAK: c644f6879af225a6e5a70233fc4625a3
 Jak v2: c644f6879af225a6e5a70233fc4625a3
-Jak v2 - Copy neww: bd62e362d5ba2a51cd0dadde069406de
 Jak v2 - Ctc2: 93221024c03e4ca2f4dccbea1299a317
+Jak v2 - test: 03f360fd8d2b316876dc0444c778ba29
 Jak X (USA): 4cc0c3ab87928f2063a20345c900df45
 Jak X v2 (USA): 3382f485a99e9ef21584b33978f86a6a
 Jak2 (USA): 615bdf46976b2adc951679c29699d7c0
