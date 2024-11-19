@@ -28,18 +28,26 @@ for /f "tokens=1,* delims=:" %%a in (%crc_file%) do (
     set "crc=%%b"
     set "crc=!crc: =!"
     if "!crc!"=="%md5_checksum%" (
-        echo The emulator is !title! with a CRC of %md5_checksum%.
+        echo The emulator is:
+echo.
+echo.
+	 echo !title!
+	 echo CRC: %md5_checksum%.
         set "found=1"
     )
 )
-
 if !found! == 0 (
     echo No matching title found for CRC %md5_checksum%.
 )
 
 :: Keep the script running
 echo.
-echo The script is running. Press Ctrl+C to exit.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo Identification complete. Close the window whenever...
 :loop
 timeout /t 86400 >nul
 goto loop
